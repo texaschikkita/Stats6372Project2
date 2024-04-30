@@ -1,0 +1,2 @@
+GLOWdata <- read.table("C:/Users/Jessica M/Desktop/GLOWdata.csv", header = TRUE, sep = "," )
+
